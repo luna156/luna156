@@ -56,8 +56,7 @@
 
 ## Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=v010309)](https://solved.ac/v010309)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=v010309)](https://solved.ac/v010309)
 ## Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:chungomega@gmail.com)
