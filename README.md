@@ -21,27 +21,20 @@
 
 ### BackEnd
 
-<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
  
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=flat-square&logo=spring data jpa&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=flat-square&logo=spring data jpa&logoColor=white">
   
 ### AWS, Infra
-<img src="https://img.shields.io/badge/docker-2B579A?style=flat-square&logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/github actions-2088FF?style=flat-square&logo=github actions&logoColor=white">  
-<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white">
-<img src="https://img.shields.io/badge/amazon rds-2088FF?style=flat-square&logo=amazon rds&logoColor=white">
-<img src="https://img.shields.io/badge/amazon s3-569A31?style=flat-square&logo=amazon s3&logoColor=white">
+<img src="https://img.shields.io/badge/github actions-2088FF?style=flat-square&logo=github actions&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"> <img src="https://img.shields.io/badge/amazon rds-2088FF?style=flat-square&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=flat-square&logo=amazon s3&logoColor=white">
 
 <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=flat-square&logo=microsoft azure&logoColor=white">
 
 ### Linux
 
-<img src="https://img.shields.io/badge/C-033963?style=flat-square&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/C-033963?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white">
 
 ### Collaboration Tools
 
