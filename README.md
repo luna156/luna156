@@ -13,7 +13,7 @@
 - mpWAV clearsense audio 개발 (2023.11 ~ 2024.02)
 - 현대자동차그룹 Softeer 우수상 (2024.07 ~ 2024.08)
 - 서강대학교 허들톤 최우수상 (2024.10 ~ 2024.11)
-- 멋쟁이 사자처럼 동아리 리크루팅 <a herf = "https://github.com/Likelion-Inner-Join/Backend">Inner-Join</a> 개발
+- 멋쟁이 사자처럼 동아리 리크루팅 <a herf = "https://github.com/Likelion-Inner-Join/Backend">Inner-Join</a> 개발 (2024.09 ~ 2024.11)
 - 삼성 청년 SW 아카데미 (2025.01 ~ )
 <br/>
 
