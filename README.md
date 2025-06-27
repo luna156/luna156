@@ -15,6 +15,7 @@
 - 서강대학교 허들톤 최우수상 (2024.10 ~ 2024.11)
 - 멋쟁이 사자처럼 동아리 리크루팅 <a herf = "https://github.com/Likelion-Inner-Join/Backend">Inner-Join</a> 개발 (2024.09 ~ 2024.12)
 - 삼성 청년 SW 아카데미 (2025.01 ~ )
+- StellaTrip 프로젝트 개발 (2025.04 ~ 2025.05)
 <br/>
 
 ## Stacks
